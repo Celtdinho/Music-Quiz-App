@@ -4,6 +4,7 @@ Welcome to the Music Quiz App Design Repository.
 Repository ini berisi seluruh dokumentasi desain untuk aplikasi Music Quiz, mulai dari storyboard, mockup, UI, hingga UX flow.
 
 Tema desain: Pastel Biru 🎨💙
+
 Tujuan: Membuat pengalaman belajar musik yang fun, clean, dan user-friendly.
 
 ## Deliverables
