@@ -7,21 +7,6 @@ Tema desain: Pastel Biru 🎨💙
 
 Tujuan: Membuat pengalaman belajar musik yang fun, clean, dan user-friendly.
 
-## Deliverables
-Deliverable	Status	Format
-Storyboard	✅	PDF / PNG
-Mockup Design	✅	Figma Export / PNG
-UI Design	✅	PNG / PDF
-UX Flow Diagram	✅	PDF
-
-## 📁 Struktur Repository
-
-📦 music-quiz-design
- ┣ 📂 storyboard
- ┣ 📂 mockup
- ┣ 📂 ui-design
- ┣ 📂 ux-flow
- ┗ README.md
 
 ## 🗂️ Project Setup & Planning
 
